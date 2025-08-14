@@ -1,0 +1,38 @@
+
+
+
+
+1. through IAm
+
+2. in provide block only giving access and secret key
+
+3. resource name rules
+
+4. terraform fmt
+
+5. inplace update ---> tags change, change the instance type
+
+6. meta arguments ---> count
+
+
+
+
+=========
+
+how many ways to pass credentials
+
+aws configure list
+
+aws configure --profile terraform
+
+aws configure list --profile terraform
+
+note: add profile in provider block
+
+
+create s3 bucket
+
+
+
+
+
